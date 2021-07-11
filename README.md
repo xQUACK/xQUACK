@@ -1,3 +1,3 @@
-Hi, im QUACK
-Im learning unity right now.
-Im currently working on country clickers. Game: <link>
+👋 Hi, I’m QUACK
+👀 I’m interested in programming
+🌱 I’m currently learning unity.
